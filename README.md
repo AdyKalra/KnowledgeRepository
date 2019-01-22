@@ -3,7 +3,7 @@ This repo would be a placeholder for Continuous Learning. Everything from blogs 
 
 
 # Blogs
-* 
+
 ## Programming | Coding
 
 ## Leadership
