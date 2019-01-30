@@ -6,6 +6,8 @@ This repo would be a placeholder for Continuous Learning. Everything from blogs 
 
 ## Programming | Coding
 
+* Go to Programming [Page](https://github.com/adykalra)
+
 ## Leadership
 
 ## Books
