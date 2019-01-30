@@ -6,7 +6,7 @@ This repo would be a placeholder for Continuous Learning. Everything from blogs 
 
 ## Programming | Coding
 
-* Go to Programming [Page](https://github.com/adykalra)
+* Go to Programming|Coding [Page](https://github.com/AdyKalra/KnowledgeRepository/blob/master/Programming%7CCoding.md)
 
 ## Leadership
 
