@@ -8,6 +8,10 @@ This repo would be a placeholder for Continuous Learning. Everything from blogs 
 
 * Go to Programming|Coding [Page](https://github.com/AdyKalra/KnowledgeRepository/tree/master/Programming%7CCoding)
 
+## Machine Learning
+
+* Go to Machine Learning [Page](https://github.com/AdyKalra/KnowledgeRepository/tree/master/Programming%7CCoding)
+
 ## Leadership
 
 ## Books
