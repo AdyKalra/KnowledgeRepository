@@ -1,1 +1,3 @@
+![overview](https://user-images.githubusercontent.com/8856857/52021190-347d2300-2548-11e9-9f72-4ea850d2bf87.PNG)
+
 * [Amazon Personalize Developer Guide](https://docs.aws.amazon.com/personalize/latest/dg/what-is-personalize.html)
