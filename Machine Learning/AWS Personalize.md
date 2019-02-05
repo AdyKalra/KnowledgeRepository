@@ -2,5 +2,5 @@
 
 * [Amazon Personalize Developer Guide](https://docs.aws.amazon.com/personalize/latest/dg/what-is-personalize.html)
 
-* [Introducing Amazon Personalize: Real-time Personalization and Recommendations (AIM365) - AWS re:Invent 2018](href="https://www.slideshare.net/AmazonWebServices)
+* [Introducing Amazon Personalize: Real-time Personalization and Recommendations (AIM365) - AWS re:Invent 2018](https://www.slideshare.net/AmazonWebServices)
 
