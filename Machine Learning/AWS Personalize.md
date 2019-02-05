@@ -4,3 +4,11 @@
 
 * [Introducing Amazon Personalize: Real-time Personalization and Recommendations (AIM365) - AWS re:Invent 2018](https://www.slideshare.net/AmazonWebServices/new-launch-introducing-amazon-personalize-realtime-personalization-and-recommendations-aim365-aws-reinvent-2018-126234959)
 
+## Using Predefined Recipes
+
+* DeepFM
+* FFNN
+* HRNN
+* Popularity-Baseline
+* Search-Personalization
+* SIMS
