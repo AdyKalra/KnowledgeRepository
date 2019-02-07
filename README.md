@@ -19,5 +19,3 @@ This repo would be a placeholder for Continuous Learning. Everything from blogs 
 ## Certifications
 
 ## Awesome Repos
-
-## LinkedIn Posts	
