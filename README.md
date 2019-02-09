@@ -34,6 +34,9 @@ This repo would be a placeholder for Continuous Learning. Everything from blogs 
 
 * Go to Database | Distributed Computing [Page](https://github.com/AdyKalra/KnowledgeRepository/tree/master/Database-DistributedComputing)
 
+# Devops
+* Go to Devops [Page](https://github.com/AdyKalra/KnowledgeRepository/tree/master/Devops)
+
 ## Leadership
 * Go to Leadership [Page](https://github.com/AdyKalra/KnowledgeRepository/tree/master/Leadership)
 
