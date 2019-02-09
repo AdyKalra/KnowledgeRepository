@@ -14,6 +14,10 @@ This repo would be a placeholder for Continuous Learning. Everything from blogs 
 
 * Go to Programming|Coding [Page](https://github.com/AdyKalra/KnowledgeRepository/tree/master/Programming%7CCoding)
 
+## Cloud
+
+* Go to Programming|Cloud [Page](https://github.com/AdyKalra/KnowledgeRepository/tree/master/Cloud)
+
 ## Machine Learning
 
 * Go to Machine Learning [Page](https://github.com/AdyKalra/KnowledgeRepository/tree/master/Machine%20Learning)
