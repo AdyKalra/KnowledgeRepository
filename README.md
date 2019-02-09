@@ -22,6 +22,10 @@ This repo would be a placeholder for Continuous Learning. Everything from blogs 
 
 * Go to Machine Learning [Page](https://github.com/AdyKalra/KnowledgeRepository/tree/master/Machine%20Learning)
 
+## Data Visualization
+
+* Go to Data Visualization [Page](https://github.com/AdyKalra/KnowledgeRepository/tree/master/DataVisualization)
+
 ## Dashboarding
 
 * Go to Machine Dashboarding [Page](https://github.com/AdyKalra/KnowledgeRepository/tree/master/Dashboarding)
