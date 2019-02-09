@@ -4,3 +4,6 @@
 
 
 * Awesome Flutter - [Page](https://github.com/Solido/awesome-flutter)
+
+### Usage
+For more instructions on how to install flutter, look [here](https://flutter.io/docs/get-started/install)
