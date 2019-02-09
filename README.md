@@ -59,3 +59,5 @@ This repo would be a placeholder for Continuous Learning. Everything from blogs 
 ## Awesome Repos
 * Go to Awesome Repos [Page](https://github.com/AdyKalra/KnowledgeRepository/tree/master/AwesomeRepos)
 
+## Side Projects
+* Go to Side Projects [Page](https://github.com/AdyKalra/KnowledgeRepository/tree/master/Side%20Projects)
