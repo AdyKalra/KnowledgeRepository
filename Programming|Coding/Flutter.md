@@ -15,3 +15,11 @@ For more instructions on how to install flutter, look [here](https://flutter.io/
 * Download and install [Android Studio](https://developer.android.com/studio/)
 * Start Android Studio, and go through the ‘Android Studio Setup Wizard’. This installs the latest Android SDK, Android SDK Platform-Tools, and Android SDK Build-Tools, which are required by Flutter when developing for Android.
 * Enable VM acceleration - [Windows10](https://www.quora.com/How-do-I-enable-hardware-acceleration-in-Windows-10) 
+
+#### Set up the Android emulator
+* Launch Android Studio > Tools > Android > AVD Manager and select Create Virtual Device. (The Android submenu is only present when inside an Android project.)
+* Choose a device definition and select Next.
+* Select one or more system images for the Android versions you want to emulate, and select Next. An x86 or x86_64 image is recommended.
+* Under Emulated Performance, select Hardware - GLES 2.0 to enable hardware acceleration.
+* Verify the AVD configuration is correct, and select Finish.
+* In Android Virtual Device Manager, click Run in the toolbar. The emulator starts up and displays the default canvas for your selected OS version and device.
