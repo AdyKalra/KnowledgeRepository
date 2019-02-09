@@ -22,7 +22,12 @@ This repo would be a placeholder for Continuous Learning. Everything from blogs 
 
 * Go to Machine Learning [Page](https://github.com/AdyKalra/KnowledgeRepository/tree/master/Machine%20Learning)
 
+## Dashboarding
+
+* Go to Machine Dashboarding [Page](https://github.com/AdyKalra/KnowledgeRepository/tree/master/Dashboarding)
+
 ## Leadership
+* Go to Leadership [Page](https://github.com/AdyKalra/KnowledgeRepository/tree/master/Leadership)
 
 ## Books
 
