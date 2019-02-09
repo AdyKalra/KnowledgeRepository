@@ -28,7 +28,11 @@ This repo would be a placeholder for Continuous Learning. Everything from blogs 
 
 ## Dashboarding
 
-* Go to Machine Dashboarding [Page](https://github.com/AdyKalra/KnowledgeRepository/tree/master/Dashboarding)
+* Go to Dashboarding [Page](https://github.com/AdyKalra/KnowledgeRepository/tree/master/Dashboarding)
+
+## Database | Distributed Computing
+
+* Go to Database | Distributed Computing [Page](https://github.com/AdyKalra/KnowledgeRepository/tree/master/Database-DistributedComputing)
 
 ## Leadership
 * Go to Leadership [Page](https://github.com/AdyKalra/KnowledgeRepository/tree/master/Leadership)
