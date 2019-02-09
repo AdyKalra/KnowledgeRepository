@@ -14,4 +14,4 @@ For more instructions on how to install flutter, look [here](https://flutter.io/
 * Run flutter doctor in cmd
 * Download and install [Android Studio](https://developer.android.com/studio/)
 * Start Android Studio, and go through the ‘Android Studio Setup Wizard’. This installs the latest Android SDK, Android SDK Platform-Tools, and Android SDK Build-Tools, which are required by Flutter when developing for Android.
-* 
+* Enable VM acceleration - [Windows10](https://www.quora.com/How-do-I-enable-hardware-acceleration-in-Windows-10) 
