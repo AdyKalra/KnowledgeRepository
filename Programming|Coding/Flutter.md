@@ -7,3 +7,9 @@
 
 ### Usage
 For more instructions on how to install flutter, look [here](https://flutter.io/docs/get-started/install)
+
+* Install Git - Git for Windows 2.x, with the Use Git from the Windows Command Prompt option.
+* Locate the file flutter_console.bat inside the flutter directory. Start it by double-clicking.
+* Update the env variables - If the entry does exist, append the full path to flutter\bin
+* Run flutter doctor in cmd
+* Download and install [Android Studio](https://developer.android.com/studio/)
