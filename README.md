@@ -30,6 +30,14 @@ This repo would be a placeholder for Continuous Learning. Everything from blogs 
 
 * Go to Dashboarding [Page](https://github.com/AdyKalra/KnowledgeRepository/tree/master/Dashboarding)
 
+## RPA
+
+* Go to RPA [Page](https://github.com/AdyKalra/KnowledgeRepository/tree/master/RPA)
+
+## Test Engineering
+
+* Go to Test Engineering [Page](https://github.com/AdyKalra/KnowledgeRepository/tree/master/TestEngineering)
+
 ## Database | Distributed Computing
 
 * Go to Database | Distributed Computing [Page](https://github.com/AdyKalra/KnowledgeRepository/tree/master/Database-DistributedComputing)
