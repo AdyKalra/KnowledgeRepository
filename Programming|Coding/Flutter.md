@@ -38,3 +38,4 @@ The body for this example consists of a Center widget containing a Text child wi
 * The pubspec file manages the assets for a Flutter app. In pubspec.yaml
 * Stateless widgets are immutable, meaning that their properties can't change—all values are final.
 * Stateful widgets maintain state that might change during the lifetime of the widget. Implementing a stateful widget requires at least two classes: 1) a StatefulWidget class that creates an instance of 2) a State class. The StatefulWidget class is, itself, immutable, but the State class persists over the lifetime of the widget.
+* ListView's builder factory constructor allows you to build a list view lazily, on demand.
