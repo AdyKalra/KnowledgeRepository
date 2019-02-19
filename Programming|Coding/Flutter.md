@@ -41,3 +41,4 @@ The body for this example consists of a Center widget containing a Text child wi
 * ListView's builder factory constructor allows you to build a list view lazily, on demand.
 
 * Prefixing an identifier with an underscore enforces privacy in the Dart language.
+* add a new page (called a route in Flutter)  navigate between the home route and the new route.
