@@ -1,6 +1,4 @@
 # [Ludwig](https://uber.github.io/ludwig/)
-[<img src="https://uber.github.io/ludwig/images/ludwig_logo.svg" align="center" width="650">](https://uber.github.io/ludwig/images/ludwig_logo.svg)
-
 * Ludwig is a toolbox that allows to train and test deep learning models 
 
 
@@ -39,4 +37,4 @@ model = LudwigModel.load(model_path)
 
 # obtain predictions
 predictions = model.predict(test_dataframe)
-```python
+```
