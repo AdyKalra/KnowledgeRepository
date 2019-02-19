@@ -43,3 +43,4 @@ The body for this example consists of a Center widget containing a Text child wi
 * Prefixing an identifier with an underscore enforces privacy in the Dart language.
 * add a new page (called a route in Flutter)  navigate between the home route and the new route.
 * Some widget properties take a single widget (child), and other properties, such as action, take an array of widgets (children), as indicated by the square brackets ([]).
+* You can easily change an app's theme by configuring the [ThemeData class](https://docs.flutter.io/flutter/material/ThemeData-class.html)
