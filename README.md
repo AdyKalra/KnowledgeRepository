@@ -6,6 +6,11 @@ This repo would be a placeholder for Continuous Learning. Everything from blogs 
 
 * Go to Alerting [Page](https://github.com/AdyKalra/KnowledgeRepository/tree/master/Alerting)
 
+## Analytics
+
+* Go to Analytics [Page](https://github.com/AdyKalra/KnowledgeRepository/tree/master/Analytics)
+
+
 ## Blogs-Feedly
 
 * Go to Blogs|Feedly [Page](https://github.com/AdyKalra/KnowledgeRepository/tree/master/Blogs-Feedly)
