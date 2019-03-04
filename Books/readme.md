@@ -10,3 +10,5 @@ A cut of sheep's hair touched with the genius of man becomes raiment for a king.
 If it is possible for leaves and clay and wood and hair to have their value multiplied a hundred, yea a thousandfold by man, cannot I do the same with the clay which bears my name?
 
 
+# Machine Learning
+* [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
