@@ -12,3 +12,4 @@ If it is possible for leaves and clay and wood and hair to have their value mult
 
 # Machine Learning
 * [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+![cover image](notebooks/figures/PDSH-cover.png)
