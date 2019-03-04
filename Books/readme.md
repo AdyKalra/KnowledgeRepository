@@ -1,5 +1,5 @@
 ### * The Greatest Salesman In The World - Og Mandino
-
+![cover image](https://www.booktopia.com.au/http_coversbooktopiacomau/big/9780553277579/0000/greatest-salesman-in-the-world.jpg)
 It's a beautiful story of Hafid, a poor camel boy. Surprisingly you can interpret the book the way you like, its less about sales and more about secret scrolls of success and yet it is about sales.
 #### The Scroll marked VIII 
 Today I will multiply my value a hundredfold.
@@ -12,4 +12,4 @@ If it is possible for leaves and clay and wood and hair to have their value mult
 
 # Machine Learning
 * [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
-![cover image](notebooks/figures/PDSH-cover.png)
+![cover image](https://jakevdp.github.io/PythonDataScienceHandbook/figures/PDSH-cover.png)
